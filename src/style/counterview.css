@@ -1,0 +1,50 @@
+.card {
+    background-color: #605708;
+    border-radius: 10px;
+    box-shadow: -10px 10px 10px -8px rgba(0, 0, 0, 0.75);
+    padding: 20px;
+    margin: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.count {
+    color: white;
+    font-size: 24px;
+    margin-bottom: 20px;
+}
+
+.button {
+    color: white;
+    border: none;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.5s ease-in-out;
+}
+
+.increment {
+    background-color: #006600;
+}
+
+.increment:hover {
+    background-color: #008000;
+}
+
+.decrement {
+    background-color: #660000;
+}
+
+.decrement:hover {
+    background-color: #800000;
+}
+
+.reset {
+    background-color: #555555;
+}
+
+.reset:hover {
+    background-color: #777777;
+}
