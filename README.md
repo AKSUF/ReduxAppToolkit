@@ -1,3 +1,8 @@
+
+///To better do in redux use Redux devtool as chrome extension.
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
